@@ -1,7 +1,7 @@
 /* header section */
 
 .hero-section {
-  background: url("img/landscape.jpeg") 50% no-repeat;
+  background: url("../img/landscape.jpeg") 50% no-repeat;
   background-size: cover;
   height: 60vh;
   text-align: center;
